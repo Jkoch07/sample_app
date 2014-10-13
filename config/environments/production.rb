@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 SampleApp::Application.configure do
+=======
+DemoApp::Application.configure do
+>>>>>>> 886a90c26c6a567237cdad061816e2a34eae2a19
   # Settings specified here will take precedence over those in config/application.rb.
 
   # Code is not reloaded between requests.
