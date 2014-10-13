@@ -31,8 +31,19 @@ gem 'rspec'
 
 gem 'webrat'
 
+gem 'spork'
+
+gem 'factory_girl_rails'
+
+gem 'gravatar_image_tag'
+
+gem 'will_paginate'
+
+
+
 group :development do 
   gem 'rspec-rails'
+  gem 'faker'
 end
 
 group :doc do
